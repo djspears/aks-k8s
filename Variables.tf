@@ -1,9 +1,9 @@
 // PROJECT Variables
 variable "client_id" {
-    default = "129a761e-878a-4fd5-a71f-70f3f20f46ba"
+    default = ""
 }
 variable "client_secret" {
-    default = "d95c3b8f-eeac-4ea1-b223-c282ac5cb42b"
+    default = ""
 }
 
 variable "agent_count" {
